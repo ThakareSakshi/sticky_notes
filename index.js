@@ -66,6 +66,6 @@ addBtn.addEventListener("click",()=>{
        },1000);
       
    })
-
+   input.value="";
   })
  
